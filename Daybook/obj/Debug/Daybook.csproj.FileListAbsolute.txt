@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\bin\Debug\Daybook.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\bin\Debug\Daybook.exe
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\bin\Debug\Daybook.pdb
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\obj\Debug\Daybook.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\obj\Debug\Daybook.exe
+c:\users\user\documents\visual studio 2015\Projects\Hamdani\Daybook\Daybook\obj\Debug\Daybook.pdb
+C:\Users\user\Desktop\Daybook\Daybook\bin\Debug\Daybook.exe.config
+C:\Users\user\Desktop\Daybook\Daybook\obj\Debug\Daybook.exe
+C:\Users\user\Desktop\Daybook\Daybook\obj\Debug\Daybook.pdb
+C:\Users\user\Desktop\Daybook\Daybook\bin\Debug\Daybook.exe
+C:\Users\user\Desktop\Daybook\Daybook\bin\Debug\Daybook.pdb
+C:\Users\user\Desktop\Daybook\Daybook\obj\Debug\Daybook.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DiaryProject\Daybook\bin\Debug\Daybook.exe.config
+C:\Users\user\Desktop\DiaryProject\Daybook\obj\Debug\Daybook.exe
+C:\Users\user\Desktop\DiaryProject\Daybook\obj\Debug\Daybook.pdb
