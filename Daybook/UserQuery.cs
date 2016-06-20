@@ -26,6 +26,5 @@ namespace Daybook
             }
             return date;
         }
-
     }
 }

@@ -13,3 +13,6 @@ C:\Users\user\Desktop\Daybook\Daybook\obj\Debug\Daybook.csprojResolveAssemblyRef
 C:\Users\user\Desktop\DiaryProject\Daybook\bin\Debug\Daybook.exe.config
 C:\Users\user\Desktop\DiaryProject\Daybook\obj\Debug\Daybook.exe
 C:\Users\user\Desktop\DiaryProject\Daybook\obj\Debug\Daybook.pdb
+C:\Users\user\Desktop\DiaryProject\Daybook\bin\Debug\Daybook.exe
+C:\Users\user\Desktop\DiaryProject\Daybook\bin\Debug\Daybook.pdb
+C:\Users\user\Desktop\DiaryProject\Daybook\obj\Debug\Daybook.csprojResolveAssemblyReference.cache

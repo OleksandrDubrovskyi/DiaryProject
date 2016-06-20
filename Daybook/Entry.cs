@@ -9,7 +9,7 @@ namespace Daybook
     public class Entry
     {
         public DateTime date { get; set; }
-   //!!! Check how to format date (dd/mm/yyy)
+
         public string content = "";
 
         public Entry(DateTime date)
