@@ -18,7 +18,7 @@ namespace Daybook
 
         public void setEntry()
         {
-            while (true)
+            while (InfoPrint.moreEntries())
             {
                 DateTime date = UserQuery.getDate();                                 
                 var entry = checkDate(daybook, date);
@@ -30,11 +30,7 @@ namespace Daybook
                     daybook = sortDaybook(daybook);
                 }      
                 else
-                    InfoPrint.updateContent(entry);
-
-                bool choice = InfoPrint.moreEntries();
-                if (choice == false)
-                    break;          
+                    InfoPrint.updateContent(entry);          
             }
         }
 
